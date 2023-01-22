@@ -1,0 +1,37 @@
+---
+title: "Vanessa Laird"
+image: "vanessalaird.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/vanessalaird/"
+  - label: Email
+    url: "mailto:vanessaclaird@gmailcom.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Vanessa Laird is a Licensed Psychologist is Saratoga Springs, New York. 
+She focuses in Psychological Assessment and Psychotherapy. 
+She is a member of the American Psychological Association and frequently 
+collaborates with researchers and scientists in to study the 
+scientist-practitioner model in counseling psychology programs. 
+
+## Education
+
+**Texas A&M University** | College Station, TX
+
+- Ph.D. in Counseling Psychology | 2011 - 2017
+- M.Ed. in Counseling Psychology | 2011 - 2012
+
+**University of Texas at Austin** | Austin, TX
+
+- B.A. in Psychology | 2006 - 2011
+
+## Experience
+
+- **Saratoga Hospital** | Psychologist | December 2019 - Present
+- **Albany Medical Center** | Psychologist | October 2018 - October 2019
+- **Albany Medical Center** | Postdoctoral Fellow | September 2017 - September 2018
+- **Albany Psychology Internship Consortium** | Clinical Psychology Intern | September 2016 - August 2017
